@@ -1,0 +1,63 @@
+Namespace(exp_name='dgcnn_1024', model='dgcnn', dataset='modelnet40', batch_size=32, test_batch_size=16, epochs=250, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using CPU
+Namespace(exp_name='dgcnn_1024', model='dgcnn', dataset='modelnet40', batch_size=32, test_batch_size=16, epochs=250, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using CPU
+Namespace(exp_name='dgcnn_1024', model='dgcnn', dataset='modelnet40', batch_size=32, test_batch_size=16, epochs=250, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using CPU
+Namespace(exp_name='dgcnn_1024', model='dgcnn', dataset='modelnet40', batch_size=32, test_batch_size=16, epochs=250, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using CPU
+Namespace(exp_name='dgcnn_1024', model='dgcnn', dataset='modelnet40', batch_size=32, test_batch_size=16, epochs=250, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using CPU
+Namespace(exp_name='dgcnn_1024', model='dgcnn', dataset='modelnet40', batch_size=32, test_batch_size=16, epochs=250, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using CPU
+Namespace(exp_name='dgcnn_1024', model='dgcnn', dataset='modelnet40', batch_size=32, test_batch_size=16, epochs=250, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using CPU
+Namespace(exp_name='dgcnn_1024', model='dgcnn', dataset='modelnet40', batch_size=32, test_batch_size=16, epochs=250, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using CPU
+Namespace(exp_name='dgcnn_1024', model='dgcnn', dataset='modelnet40', batch_size=32, test_batch_size=16, epochs=250, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using CPU
+Namespace(exp_name='dgcnn_1024', model='dgcnn', dataset='modelnet40', batch_size=4, test_batch_size=16, epochs=5, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using CPU
+Namespace(exp_name='dgcnn_1024', model='dgcnn', dataset='modelnet40', batch_size=4, test_batch_size=16, epochs=5, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using CPU
+Namespace(exp_name='dgcnn_1024', model='dgcnn', dataset='modelnet40', batch_size=4, test_batch_size=16, epochs=5, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=8, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using CPU
+Namespace(exp_name='dgcnn_1024', model='dgcnn', dataset='modelnet40', batch_size=1, test_batch_size=16, epochs=5, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using CPU
+Namespace(exp_name='dgcnn_1024', model='dgcnn', dataset='modelnet40', batch_size=32, test_batch_size=16, epochs=5, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using CPU
+Namespace(exp_name='dgcnn_1024', model='dgcnn', dataset='modelnet40', batch_size=512, test_batch_size=16, epochs=5, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=1024, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using CPU
+Namespace(exp_name='dgcnn_1024', model='dgcnn', dataset='modelnet40', batch_size=64, test_batch_size=16, epochs=5, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=128, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using CPU
+Namespace(exp_name='dgcnn_1024', model='dgcnn', dataset='modelnet40', batch_size=256, test_batch_size=16, epochs=5, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=64, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using CPU
+Namespace(exp_name='dgcnn_1024', model='dgcnn', dataset='modelnet40', batch_size=256, test_batch_size=16, epochs=5, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=64, dropout=0.5, emb_dims=1024, k=20, model_path='')
+Using CPU
+Namespace(exp_name='dgcnn_1024', model='dgcnn', dataset='modelnet40', batch_size=256, test_batch_size=16, epochs=5, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=64, dropout=0.5, emb_dims=1024, k=10, model_path='')
+Using CPU
+Namespace(exp_name='dgcnn_1024', model='dgcnn', dataset='modelnet40', batch_size=256, test_batch_size=16, epochs=5, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=16, dropout=0.5, emb_dims=1024, k=10, model_path='')
+Using CPU
+Train 0, loss: 2.836174, train acc: 0.396176, train avg acc: 0.225976
+Test 0, loss: 2.723337, test acc: 0.425446, test avg acc: 0.317680
+Namespace(exp_name='dgcnn_1024', model='dgcnn', dataset='modelnet40', batch_size=256, test_batch_size=16, epochs=6, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=16, dropout=0.5, emb_dims=1024, k=10, model_path='')
+Using CPU
+Train 0, loss: 2.835794, train acc: 0.399363, train avg acc: 0.227023
+Test 0, loss: 2.702229, test acc: 0.411264, test avg acc: 0.310605
+Train 1, loss: 2.406305, train acc: 0.548109, train avg acc: 0.370572
+Test 1, loss: 2.470115, test acc: 0.504457, test avg acc: 0.382308
+Train 2, loss: 2.285508, train acc: 0.595600, train avg acc: 0.422270
+Test 2, loss: 2.165949, test acc: 0.617099, test avg acc: 0.483686
+Train 3, loss: 2.213591, train acc: 0.626748, train avg acc: 0.455618
+Test 3, loss: 2.105459, test acc: 0.651135, test avg acc: 0.521640
+Train 4, loss: 2.171733, train acc: 0.641345, train avg acc: 0.475695
+Test 4, loss: 2.053216, test acc: 0.688006, test avg acc: 0.556791
+Train 5, loss: 2.159123, train acc: 0.647924, train avg acc: 0.483147
+Test 5, loss: 2.048772, test acc: 0.686386, test avg acc: 0.552488
+Namespace(exp_name='dgcnn_1024', model='dgcnn', dataset='modelnet40', batch_size=1, test_batch_size=16, epochs=6, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=16, dropout=0.5, emb_dims=1024, k=10, model_path='')
+Using CPU
+Namespace(exp_name='dgcnn_1024', model='dgcnn', dataset='modelnet40', batch_size=256, test_batch_size=16, epochs=6, use_sgd=True, lr=0.001, momentum=0.9, no_cuda=False, seed=1, eval=False, num_points=16, dropout=0.5, emb_dims=1024, k=10, model_path='')
+Using CPU
+Train 0, loss: 2.836031, train acc: 0.396793, train avg acc: 0.227647
+Test 0, loss: 2.726345, test acc: 0.408023, test avg acc: 0.312483
+Train 1, loss: 2.405271, train acc: 0.549445, train avg acc: 0.374048
